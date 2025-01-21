@@ -45,6 +45,7 @@
 - **DataProvider.py**: Возвращает данные из базы.
 - **/test_ui/page/MainPage.py**: Методы для работы c UI тестами.
 - **/test_api/page_api/BoardApi.py**: Методы для работы c API тестами.
+- **/test_api/test_ui.py**: Тесты, проверяющие функциональность UI.
 - **/test_api/test_api.py**: Тесты, проверяющие функциональность API.
 - **test_data.json**: База с тестовыми данными.
 
