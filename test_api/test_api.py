@@ -1,5 +1,5 @@
 import allure
-from kinopoisk.test_api.page_api.BoardApi import KinopoiskApi
+from test_api.page_api.BoardApi import KinopoiskApi
 
 api = KinopoiskApi()
 

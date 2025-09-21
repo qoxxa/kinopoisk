@@ -1,5 +1,5 @@
 import requests
-from kinopoisk.DataProvider import DataProvider
+from DataProvider import DataProvider
 import allure
 
 

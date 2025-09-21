@@ -1,4 +1,4 @@
-from kinopoisk.test_ui.page.MainPage import MainPage
+from test_ui.page.MainPage import MainPage
 import allure
 
 
