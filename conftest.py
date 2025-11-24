@@ -1,7 +1,7 @@
 import pytest
 import allure
 from selenium import webdriver
-from kinopoisk.DataProvider import DataProvider
+from DataProvider import DataProvider
 
 
 @pytest.fixture(scope='session')

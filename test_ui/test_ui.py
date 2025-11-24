@@ -1,4 +1,4 @@
-from test_ui.page.MainPage import MainPage
+from MainPage import MainPage
 import allure
 
 
